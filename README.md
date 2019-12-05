@@ -1,6 +1,5 @@
 # Author: Ping-Jung Liu
 # Date: November 15th 2017
-# COSC 76 Assignment : Motion Planning
 # Acknowledgement: Professor Devin Balkom for providing the general structure 
 
 ***README***
